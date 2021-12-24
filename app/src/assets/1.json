@@ -1,0 +1,19 @@
+{
+    "name": "LAND_#2",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "5XKfx2utzPBYvdsyPp4uFDyEi8mc4ru9BDcC9AmmEwi1",
+          "share": 100
+        }
+      ]
+    }
+  }
